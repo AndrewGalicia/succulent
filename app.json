@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Succulent",
-    "slug": "Succulent",
+    "slug": "succulent",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,8 +28,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "8b61024a-9be7-4efa-b899-62e740cc8082"
+        "projectId": "64a6cce6-e0c5-4631-ad8d-f1c8436ce905"
       }
-    }
+    },
+    "owner": "andrewlgalicia"
   }
 }
